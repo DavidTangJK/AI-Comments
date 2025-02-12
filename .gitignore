@@ -1,5 +1,5 @@
-.csv
-.docx
-.pdf
-.txt
-.xlsx
+*.csv
+*.docx
+*.pdf
+*.txt
+*.xlsx
