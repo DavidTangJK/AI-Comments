@@ -1,5 +1,2 @@
-*.csv
-*.docx
-*.pdf
-*.txt
-*.xlsx
+/downloads
+/excel files
